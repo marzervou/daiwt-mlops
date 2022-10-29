@@ -6,12 +6,12 @@
             "artifact_location": "dbfs:/Shared/mzervou/daiwt_mlops/dev/dbx/projects/daiwt_mlops_dbx_dev"
         },
         "staging": {
-            "profile": "e2-emea-demo",
+            "profile": "e2-west-demo",
             "workspace_dir": "/Shared/mzervou/daiwt_mlops/staging/dbx/daiwt_mlops_staging",
             "artifact_location": "dbfs:/Shared/mzervou/daiwt_mlops/staging/dbx/projects/daiwt_mlops_dbx_staging"
         },
         "prod": {
-            "profile": "e2-emea-demo",
+            "profile": "e2-west-demo",
             "workspace_dir": "/Shared/mzervou/daiwt_mlops/prod/dbx/daiwt_mlops_prod",
             "artifact_location": "dbfs:/Shared/mzervou/daiwt_mlops/prod/dbx/projects/daiwt_mlops_dbx_prod"
         },
